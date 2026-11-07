@@ -9,7 +9,7 @@
         "@types/assert": "^1.5.11",
         "typescript-eslint": "^8.54.0",
         "eslint": "^9.39.2",
-        "glob": "^13.0.0",
+        "glob": "^14.0.4",
         "mocha": "^11.7.5",
         "typescript": "^5.9.3",
         "@vscode/test-cli": "^0.0.12",
